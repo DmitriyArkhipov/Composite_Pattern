@@ -19,6 +19,7 @@
 		8126C63F1D65A43D006EB484 /* SystemComponent.m in Sources */ = {isa = PBXBuildFile; fileRef = 8126C63E1D65A43D006EB484 /* SystemComponent.m */; };
 		8126C6421D65A6B0006EB484 /* Directory.m in Sources */ = {isa = PBXBuildFile; fileRef = 8126C6411D65A6B0006EB484 /* Directory.m */; };
 		8126C6451D65AB3F006EB484 /* File.m in Sources */ = {isa = PBXBuildFile; fileRef = 8126C6441D65AB3F006EB484 /* File.m */; };
+		81FCF8201D8B0FE300A808BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 81FCF81F1D8B0FE300A808BB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		8126C6411D65A6B0006EB484 /* Directory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Directory.m; sourceTree = "<group>"; };
 		8126C6431D65AB3F006EB484 /* File.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = File.h; sourceTree = "<group>"; };
 		8126C6441D65AB3F006EB484 /* File.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = File.m; sourceTree = "<group>"; };
+		81FCF81F1D8B0FE300A808BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		8126C60F1D658227006EB484 = {
 			isa = PBXGroup;
 			children = (
+				81FCF81F1D8B0FE300A808BB /* LICENSE */,
 				8126C61A1D658227006EB484 /* composite_pattern */,
 				8126C6191D658227006EB484 /* Products */,
 			);
@@ -192,6 +195,7 @@
 			files = (
 				8126C62B1D658227006EB484 /* LaunchScreen.storyboard in Resources */,
 				8126C6281D658227006EB484 /* Assets.xcassets in Resources */,
+				81FCF8201D8B0FE300A808BB /* LICENSE in Resources */,
 				8126C6261D658227006EB484 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
